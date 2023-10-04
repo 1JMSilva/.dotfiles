@@ -1,0 +1,8 @@
+Juan Silva Magana 
+first, I had to create a vim configuration file by typing in "vim .vimrc" then inserting some configurations inside that file. We then saved and exited the file but made sure everything that was typed inside was correct so we viewd the file again. I then had to copy the vim file but also rename it by using cp which took me a minute to figure out how to copy and rename in just one command then we just submit after we check one last time after using cat but with the changed file name
+syntax on 
+set ruler 
+set autoindent 
+set number 
+set ignorecase
+color elflord 
